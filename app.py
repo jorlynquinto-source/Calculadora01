@@ -551,6 +551,6 @@ st.markdown("""
 ">
     <p>🎓 <strong>Estructuras Discretas</strong> - Ingeniería en Software</p>
     <p>💻 Desarrollado con Python y Streamlit</p>
-    <p>👥 Grupo N.º 4 - Ariel, Nayeli y Jeremy</p>
+    <p>👥 Grupo N.º 4 - Ariel, Nallely y Geremy</p>
 </div>
 """, unsafe_allow_html=True)
